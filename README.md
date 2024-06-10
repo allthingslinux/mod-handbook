@@ -7,9 +7,10 @@
 <h5 align="center" style="margin-bottom: 0px">
   All Things Linux Presents:
 </h5>
-  <h1 align="center" style="margin: 0px">
+<h1 align="center" style="margin: 0px">
   The Discord Moderator Manual
 </h1>
+
 ---
 
 ## License
