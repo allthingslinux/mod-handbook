@@ -11,8 +11,6 @@
   The Discord Moderator Manual
 </h1>
 
----
-
 ## License
 <p>
 	<a rel="work" href="https://github.com/allthingslinux/Moderator-Manual"> All Things Linux Presents: The Discord Moderator Manual</a>
