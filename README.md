@@ -27,12 +27,12 @@
 License
 Table of Contents
 Acknowledgements
-1.     Introduction
+1. 	Introduction
 	    1.1      Importance of Moderator Training
-2.     Basics of Moderation
+2. 	Basics of Moderation
 	    2.1      Defining the Role of a Moderator
 	    2.2      Understanding the Community Guidelines
-2.     Morals & Ethics in Moderation
+2. 	Morals & Ethics in Moderation
 		3.1      Upholding Fairness and Impartiality
 		3.2      Maintaining Confidentiality and Trust
 		3.3      Handling Sensitive Issues with Sensitivity
@@ -41,16 +41,16 @@ Acknowledgements
 		    3.4.1      Building Trust and Collaboration
 		    3.4.2      Resolving Conflict Constructively
 		    3.4.3      Fostering Inclusivity and Respect
-4.     Expectation Change: Moderator vs Regular Member
+4. 	Expectation Change: Moderator vs Regular Member
 	    4.1      Responsibilities and Accountability
 	    4.2      Balancing Authority with Approachability
 	    4.3      Setting a Positive Example for the Community
-5.     Ticket Procedure and Etiquette
+5. 	Ticket Procedure and Etiquette
 	    5.1      Establishing Clear Ticketing Guidelines
 	    5.2      Prioritizing and Assigning Tickets Effectively
 	    5.3      Communicating Professionally and Promptly
-6.     Familiarization with Built in Discord Tools and Features
-7.     Bot Management
+6. 	Familiarization with Built in Discord Tools and Features
+7. 	Bot Management
 	    6.1      Introduction to Moderation Bots
 		    6.1.1      Audit Log
 		    6.1.2      Mod Log
@@ -62,11 +62,11 @@ Acknowledgements
 			6.3.2      Helper.gg
 			6.3.3      Wick
 			6.3.4      Dyno
-8.     Crafting A Strong First Message
+8.	Crafting A Strong First Message
 	    7.1      Importance of First Impressions
 	    7.2      Structuring Clear and Concise Messages
 	    7.3      Incorporating Empathy and Understanding
-9.     De-escalation Tactics
+9. 	De-escalation Tactics
 	    8.1      Active Listening Techniques
 	    8.2      Remaining Calm and Empathetic
 	    8.3      Offering Solutions and Compromises
@@ -74,7 +74,7 @@ Acknowledgements
 			4.4.1      Recognizing the Impact of Moderator Authority
 			4.4.2      Avoiding Misuse of Power and Intimidation Tactics 
 			4.4.3      Promoting Open Communication and Collaboration
-10.   Conclusion
+10.    Conclusion
 	    9.1      Recap of Key Points
 	    9.2      Continuous Learning and Improvement
 	    9.3      Importance of Upholding Community Values
