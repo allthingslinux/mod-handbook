@@ -24,68 +24,64 @@
 ---
 ## Table of Contents
 
-License
-Table of Contents
-Acknowledgements
-1. 	Introduction
-	    1.1      Importance of Moderator Training
-2. 	Basics of Moderation
-	    2.1      Defining the Role of a Moderator
-	    2.2      Understanding the Community Guidelines
-2. 	Morals & Ethics in Moderation
-		3.1      Upholding Fairness and Impartiality
-		3.2      Maintaining Confidentiality and Trust
-		3.3      Handling Sensitive Issues with Sensitivity
-		    3.3.1      Maintaining Professionality & Transparency in DM Conversations
-		3.4      Navigating Coworker Relationships
-		    3.4.1      Building Trust and Collaboration
-		    3.4.2      Resolving Conflict Constructively
-		    3.4.3      Fostering Inclusivity and Respect
-4. 	Expectation Change: Moderator vs Regular Member
-	    4.1      Responsibilities and Accountability
-	    4.2      Balancing Authority with Approachability
-	    4.3      Setting a Positive Example for the Community
-5. 	Ticket Procedure and Etiquette
-	    5.1      Establishing Clear Ticketing Guidelines
-	    5.2      Prioritizing and Assigning Tickets Effectively
-	    5.3      Communicating Professionally and Promptly
-6. 	Familiarization with Built in Discord Tools and Features
-7. 	Bot Management
-	    6.1      Introduction to Moderation Bots
-		    6.1.1      Audit Log
-		    6.1.2      Mod Log
-	    6.2      Understanding Bot Commands and Functions
-		    6.2.1      Slash Commands
-			6.2.2      Hybrid Commands
-	    6.3      Important Commands
-			6.3.1      Tux
-			6.3.2      Helper.gg
-			6.3.3      Wick
-			6.3.4      Dyno
-8.	Crafting A Strong First Message
-	    7.1      Importance of First Impressions
-	    7.2      Structuring Clear and Concise Messages
-	    7.3      Incorporating Empathy and Understanding
-9. 	De-escalation Tactics
-	    8.1      Active Listening Techniques
-	    8.2      Remaining Calm and Empathetic
-	    8.3      Offering Solutions and Compromises
-	    4.4      Understanding and Mitigating Intimidation Dynamics 
-			4.4.1      Recognizing the Impact of Moderator Authority
-			4.4.2      Avoiding Misuse of Power and Intimidation Tactics 
-			4.4.3      Promoting Open Communication and Collaboration
-10.    Conclusion
-	    9.1      Recap of Key Points
-	    9.2      Continuous Learning and Improvement
-	    9.3      Importance of Upholding Community Values
-Glossary
-
+- [License](#license)
+- [Table of Contents](#table-of-contents)
+- [Acknowledgements](#acknowledgements)
+- 1. [Introduction](#1-introduction)
+  - 1.1 [Importance of Moderator Training](#11-importance-of-moderator-training)
+- 2. [Basics of Moderation](#2-basics-of-moderation)
+  - 2.1 [Defining the Role of a Moderator](#21-defining-the-role-of-a-moderator)
+  - 2.2 [Understanding the Community Guidelines](#22-understanding-the-community-guidelines)
+- 3. [Morals & Ethics in Moderation](#3-morals--ethics-in-moderation)
+  - 3.1 [Upholding Fairness and Impartiality](#31-upholding-fairness-and-impartiality)
+  - 3.2 [Maintaining Confidentiality and Trust](#32-maintaining-confidentiality-and-trust)
+  - 3.3 [Handling Sensitive Issues with Sensitivity](#33-handling-sensitive-issues-with-sensitivity)
+    - 3.3.1 [Maintaining Professionality & Transparency in DM Conversations](#331-maintaining-professionality--transparency-in-dm-conversations)
+  - 3.4 [Navigating Coworker Relationships](#34-navigating-coworker-relationships)
+    - 3.4.1 [Building Trust and Collaboration](#341-building-trust-and-collaboration)
+    - 3.4.2 [Resolving Conflict Constructively](#342-resolving-conflict-constructively)
+    - 3.4.3 [Fostering Inclusivity and Respect](#343-fostering-inclusivity-and-respect)
+- 4. [Expectation Change: Moderator vs Regular Member](#4-expectation-change-moderator-vs-regular-member)
+  - 4.1 [Responsibilities and Accountability](#41-responsibilities-and-accountability)
+  - 4.2 [Balancing Authority with Approachability](#42-balancing-authority-with-approachability)
+  - 4.3 [Setting a Positive Example for the Community](#43-setting-a-positive-example-for-the-community)
+- 5. [Ticket Procedure and Etiquette](#5-ticket-procedure-and-etiquette)
+  - 5.1 [Establishing Clear Ticketing Guidelines](#51-establishing-clear-ticketing-guidelines)
+  - 5.2 [Prioritizing and Assigning Tickets Effectively](#52-prioritizing-and-assigning-tickets-effectively)
+  - 5.3 [Communicating Professionally and Promptly](#53-communicating-professionally-and-promptly)
+- 6. [Familiarization with Built in Discord Tools and Features](#6-familiarization-with-built-in-discord-tools-and-features)
+- 7. [Bot Management](#7-bot-management)
+  - 7.1 [Introduction to Moderation Bots](#71-introduction-to-moderation-bots)
+    - 7.1.1 [Audit Log](#711-audit-log)
+    - 7.1.2 [Mod Log](#712-mod-log)
+  - 7.2 [Understanding Bot Commands and Functions](#72-understanding-bot-commands-and-functions)
+    - 7.2.1 [Slash Commands](#721-slash-commands)
+    - 7.2.2 [Hybrid Commands](#722-hybrid-commands)
+  - 7.3 [Important Commands](#73-important-commands)
+    - 7.3.1 [Tux](#731-tux)
+    - 7.3.2 [Helper.gg](#732-helpergg)
+    - 7.3.3 [Wick](#733-wick)
+    - 7.3.4 [Dyno](#734-dyno)
+- 8. [Crafting A Strong First Message](#8-crafting-a-strong-first-message)
+  - 8.1 [Importance of First Impressions](#81-importance-of-first-impressions)
+  - 8.2 [Structuring Clear and Concise Messages](#82-structuring-clear-and-concise-messages)
+  - 8.3 [Incorporating Empathy and Understanding](#83-incorporating-empathy-and-understanding)
+- 9. [De-escalation Tactics](#9-de-escalation-tactics)
+  - 9.1 [Active Listening Techniques](#91-active-listening-techniques)
+  - 9.2 [Remaining Calm and Empathetic](#92-remaining-calm-and-empathetic)
+  - 9.3 [Offering Solutions and Compromises](#93-offering-solutions-and-compromises)
+  - 9.4 [Understanding and Mitigating Intimidation Dynamics](#94-understanding-and-mitigating-intimidation-dynamics)
+    - 9.4.1 [Recognizing the Impact of Moderator Authority](#941-recognizing-the-impact-of-moderator-authority)
+    - 9.4.2 [Avoiding Misuse of Power and Intimidation Tactics](#942-avoiding-misuse-of-power-and-intimidation-tactics)
+    - 9.4.3 [Promoting Open Communication and Collaboration](#943-promoting-open-communication-and-collaboration)
+- 10. [Conclusion](#10-conclusion)
+  - 10.1 [Recap of Key Points](#101-recap-of-key-points)
+  - 10.2 [Continuous Learning and Improvement](#102-continuous-learning-and-improvement)
+  - 10.3 [Importance of Upholding Community Values](#103-importance-of-upholding-community-values)
+- [Glossary](#glossary)
 
 ---
 ## Acknowledgements
-
-![Discord Banner 1](https://i.imgur.com/6kxPNlG.png)
-
 
 ---
 ## 1. Introduction
@@ -99,10 +95,6 @@ Ty <3
 ###   *1.1 Importance of Moderator Training*
 
 Effective moderation is essential for creating safe, welcoming, and productive Discord Communities. A well-trained moderation team can help maintain order, mitigate disputes, and bring a sense of belonging to the community members. Furthermore, moderators serve as role models and ambassadors for the community, shaping its culture and setting the tone for interactions. By investing in moderator training, communities can enhance their resilience, responsiveness, and overall health, ultimately enriching the experiences of all who participate. Remember that your actions from this point onwards reflect on the _community_. Not just on you.
-
-
----
-
 
 ---
 # Glossary
