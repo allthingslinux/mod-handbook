@@ -25,11 +25,6 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**
 
-- [
-  The Discord Moderator Manual
-](#the-discord-moderator-manual)
-  - [License](#license)
-  - [Table of Contents](#table-of-contents)
   - [Acknowledgements](#acknowledgements)
 - [1. Introduction](#1-introduction)
     - [1.1 Importance of Moderator Training](#11-importance-of-moderator-training)
