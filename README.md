@@ -1,3 +1,26 @@
+![Discord Banner 1](https://i.imgur.com/6kxPNlG.png)
+<p align="center" style="margin: 8px 0px 0px 0px">
+  <img src="https://discordapp.com/api/guilds/1172245377395728464/widget.png?style=shield" alt="Discord Shield">
+  <img src="https://dcbadge.vercel.app/api/server/linux?style=flat&theme=clean" alt="Discord Banner 2">
+  <img src="https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg" alt="License: CC BY 4.0">
+</p>
+<h5 align="center" style="margin-bottom: 0px">
+  All Things Linux Presents:
+</h5>
+<h1 align="center" style="margin: 0px">
+  The Discord Moderator Manual
+</h1>
+
+## License
+<p>
+	<a rel="work" href="https://github.com/allthingslinux/Moderator-Manual"> All Things Linux Presents: The Discord Moderator Manual</a>
+	is licensed under
+	<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"> Creative Commons Attribution 4.0 International 
+		<img alt="Creative Commons License" style="border-width:0" src="https://chooser-beta.creativecommons.org/img/cc-logo.f0ab4ebe.svg" width="15">
+		<img alt="Creative Commons License" style="border-width:0" src="https://chooser-beta.creativecommons.org/img/cc-by.21b728bb.svg" width="15">
+	</a>
+</p>
+
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**
@@ -62,33 +85,6 @@
 - [Glossary](#glossary)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
-
-![Discord Banner 1](https://i.imgur.com/6kxPNlG.png)
-<p align="center" style="margin: 8px 0px 0px 0px">
-  <img src="https://discordapp.com/api/guilds/1172245377395728464/widget.png?style=shield" alt="Discord Shield">
-  <img src="https://dcbadge.vercel.app/api/server/linux?style=flat&theme=clean" alt="Discord Banner 2">
-  <img src="https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg" alt="License: CC BY 4.0">
-</p>
-<h5 align="center" style="margin-bottom: 0px">
-  All Things Linux Presents:
-</h5>
-<h1 align="center" style="margin: 0px">
-  The Discord Moderator Manual
-</h1>
-
-## License
-<p>
-	<a rel="work" href="https://github.com/allthingslinux/Moderator-Manual"> All Things Linux Presents: The Discord Moderator Manual</a>
-	is licensed under
-	<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"> Creative Commons Attribution 4.0 International 
-		<img alt="Creative Commons License" style="border-width:0" src="https://chooser-beta.creativecommons.org/img/cc-logo.f0ab4ebe.svg" width="15">
-		<img alt="Creative Commons License" style="border-width:0" src="https://chooser-beta.creativecommons.org/img/cc-by.21b728bb.svg" width="15">
-	</a>
-</p>
-
-## Table of Contents
-<!-- START doctoc -->
-<!-- END doctoc -->
 
 ## Acknowledgements
 
