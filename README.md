@@ -11,16 +11,6 @@
   The Discord Moderator Manual
 </h1>
 
-## License
-<p>
-	<a rel="work" href="https://github.com/allthingslinux/Moderator-Manual"> All Things Linux Presents: The Discord Moderator Manual</a>
-	is licensed under
-	<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"> Creative Commons Attribution 4.0 International 
-		<img alt="Creative Commons License" style="border-width:0" src="https://chooser-beta.creativecommons.org/img/cc-logo.f0ab4ebe.svg" width="15">
-		<img alt="Creative Commons License" style="border-width:0" src="https://chooser-beta.creativecommons.org/img/cc-by.21b728bb.svg" width="15">
-	</a>
-</p>
-
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**
@@ -162,3 +152,13 @@ All definitions are from [Oxford Languages](https://languages.oup.com/).
 
 > [!NOTE]
 > **order**: a state in which the laws and rules regulating public behavior are observed and authority is obeyed.
+
+# License
+<p>
+	<a rel="work" href="https://github.com/allthingslinux/Moderator-Manual"> All Things Linux Presents: The Discord Moderator Manual</a>
+	is licensed under
+	<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"> Creative Commons Attribution 4.0 International 
+		<img alt="Creative Commons License" style="border-width:0" src="https://chooser-beta.creativecommons.org/img/cc-logo.f0ab4ebe.svg" width="15">
+		<img alt="Creative Commons License" style="border-width:0" src="https://chooser-beta.creativecommons.org/img/cc-by.21b728bb.svg" width="15">
+	</a>
+</p>
