@@ -21,6 +21,7 @@
 - [2. Basics of Moderation](#2-basics-of-moderation)
     - [2.1 Defining the Role of a Moderator](#21-defining-the-role-of-a-moderator)
     - [2.2 Understanding the Community Guidelines](#22-understanding-the-community-guidelines)
+    - [2.3 Familiarization with Discord's available Tools and Features](#23-familiarization-with-discords-available-tools-and-features)
 - [3. Morals & Ethics in Moderation](#3-morals--ethics-in-moderation)
     - [3.1 Upholding Fairness and Impartiality](#31-upholding-fairness-and-impartiality)
     - [3.2 Maintaining Confidentiality and Trust](#32-maintaining-confidentiality-and-trust)
