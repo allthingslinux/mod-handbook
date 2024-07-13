@@ -68,6 +68,7 @@
     - [10.2 Continuous Learning and Improvement](#102-continuous-learning-and-improvement)
     - [10.3 Importance of Upholding Community Values](#103-importance-of-upholding-community-values)
 - [Glossary](#glossary)
+- [License](#license)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
