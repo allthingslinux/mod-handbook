@@ -1,0 +1,32 @@
+repo_name: allthingslinux/mod-handbook
+report_id: a13bce09a31fa3eb2c5c1302a72fef7b
+version: 0.1
+repo_type: Public
+timestamp: '2024-07-22T18:01:10+00:00'
+requested_by: jwe66
+provider: github
+branch: main
+detected_tools_count: 2
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/allthingslinux/mod-handbook
+  detection_source: Repo Metadata
+- name: GitHub Actions
+  description: Automate your workflow from idea to production
+  website_url: https://github.com/features/actions
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/allthingslinux/mod-handbook/blob/main/.github/workflows/toc.yml
+  detection_source: ".github/workflows/toc.yml"
+  last_updated_by: kzndotsh
+  last_updated_on: 2024-07-13 04:28:53.000000000 Z
