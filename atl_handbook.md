@@ -71,7 +71,7 @@ You are **not** here to:
 
 Besides the above, try to be as approachable as possible. We want people to feel comfortable coming to you with their questions and concerns. You're here to be a helpful presence, not a distant enforcer.
 
-# 2.2 The Importance of the Code of Conduct
+## 2.2 The Importance of the Code of Conduct
 
 We obviously don't expect you to have every single rule memorized, but having a general understanding of our code of conduct is essential. These guidelines provide a clear, consistent framework for decision-making and help keep us fair across the board.
 
@@ -81,7 +81,7 @@ Relying on the code of conduct ensures that moderation stays consistent, fair, a
 
 Let's talk a little more about accountability:
 
-# 2.3 Accountability
+## 2.3 Accountability
 While moderators generally have the discretion to manage situations as they see fit, it’s crucial that they remain transparent about their decisions. If in a staff discussion, we ask for clarification regarding a warning, mute, or ban, you should be ready to explain your actions and provide context. 
 
 It’s important to remember that issuing warns, mutes, or bans should never be taken lightly or used as a joke. These actions can significantly impact a member’s experience, so they should be reserved for genuine violations of the code of conduct. While we trust our moderators to act independently without needing to seek consensus on every decision—since doing so can slow down the team—we also expect them to exercise that discretion responsibly.
