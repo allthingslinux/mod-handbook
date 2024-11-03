@@ -28,7 +28,6 @@ Our team is as follows:
 
 
 ## 1.2 The Chain of Command
-### 1.2 The Chain of Command
 In All Things Linux, the chain of command is structured as follows:
 
 1. **Owner**: The ultimate decision-maker who oversees the entire community and its operations.
