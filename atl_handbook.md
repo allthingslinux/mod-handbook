@@ -49,3 +49,24 @@ Our conversations are all about tech. We love to chat about distributions, troub
 We’re not a stale, stuck-in-the-mud community. We’re fast-paced and flexible, always open to trying new things. We experiment with new channels, content types, and ways to keep people participating, learning, and enjoying themselves. Trial and error are part of our DNA. Sometimes things work out, sometimes they don’t—and that’s okay! We adjust as we go and aim to learn from each experiment.
 
 As a moderator, you’ll notice that the community’s needs and trends can change quickly. What might work one week could need a tweak the next. Being adaptable and open to the community’s pulse will help us continue to grow and improve.
+
+# 2. The Importance of Moderation
+Moderation is what keeps our community safe, engaging and welcoming. This guide will walk you through everything you need to know about moderating, from managing different types of messages to handling tough situations with confidence. But before we dive in, it’s important to remember that moderation should be rewarding, not draining. We want you to enjoy your role, and invest your valuable time in ways that genuinely interest you. **This is very important to us.**
+
+## 2.1 The Role of a Moderator
+By moderating, you’re not just enforcing rules—you’re shaping a space where members can have meaningful, positive experiences. Effective moderation builds trust and encourages healthy interaction. 
+
+You are here to:
+
+- **Uphold standards**: set and enforce guidelines to ensure the community remains healthy and positive.
+- **Maintain order**: manage discussions, and redirect conversations that veer off track.
+- **Mediate conflicts**: step in to resolve disputes and misunderstandings, creating a balanced space.
+- **Protect the Community**: address spam, inappropriate content, misinformation, and other threats to our community environment.
+
+You are **not** here to:
+
+- **Abuse your powers**: the tools at your disposal are here to maintain order, not to silence people you disagree with or to enforce bias.
+- **Engage in personal vendettas**: we expect you to be professional and impartial in your moderation.
+- **Micro-manage every interaction**: It’s not your job to control every conversation or over-police minor issues.
+
+Besides the above, try to be as approachable as possible. We want people to feel comfortable coming to you with their questions and concerns. You're here to be a helpful presence, not a distant enforcer.
