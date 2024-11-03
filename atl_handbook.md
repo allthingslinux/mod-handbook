@@ -70,3 +70,11 @@ You are **not** here to:
 - **Micro-manage every interaction**: It’s not your job to control every conversation or over-police minor issues.
 
 Besides the above, try to be as approachable as possible. We want people to feel comfortable coming to you with their questions and concerns. You're here to be a helpful presence, not a distant enforcer.
+
+# 2.2 The Importance of the Code of Conduct
+
+We obviously don't expect you to have every single rule memorized, but having a general understanding of our code of conduct is essential. These guidelines provide a clear, consistent framework for decision-making and help keep us fair across the board.
+
+Moderating isn't about using personal bias or enforcing your own personal views. it’s about enforcing the community rules as they’re written. When handling issues, especially those that aren't super urgent, take the time to reference the appropriate section of the code of conduct. This means when issuing warnings, mutes, or bans, include the specific rule number in your reason message. Doing so not only makes your actions transparent but also educates members about what behavior crossed the line and why it wasn’t acceptable.
+
+Relying on the code of conduct ensures that moderation stays consistent, fair, and free from bias. It also gives members a better understanding of our standards, reducing confusion and having a sense of "accountability".
