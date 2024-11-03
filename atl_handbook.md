@@ -78,3 +78,15 @@ We obviously don't expect you to have every single rule memorized, but having a 
 Moderating isn't about using personal bias or enforcing your own personal views. it’s about enforcing the community rules as they’re written. When handling issues, especially those that aren't super urgent, take the time to reference the appropriate section of the code of conduct. This means when issuing warnings, mutes, or bans, include the specific rule number in your reason message. Doing so not only makes your actions transparent but also educates members about what behavior crossed the line and why it wasn’t acceptable.
 
 Relying on the code of conduct ensures that moderation stays consistent, fair, and free from bias. It also gives members a better understanding of our standards, reducing confusion and having a sense of "accountability".
+
+Let's talk a little more about accountability:
+
+# 2.3 Accountability
+While moderators generally have the discretion to manage situations as they see fit, it’s crucial that they remain transparent about their decisions. If in a staff discussion, we ask for clarification regarding a warning, mute, or ban, you should be ready to explain your actions and provide context. 
+
+It’s important to remember that issuing warns, mutes, or bans should never be taken lightly or used as a joke. These actions can significantly impact a member’s experience, so they should be reserved for genuine violations of the code of conduct. While we trust our moderators to act independently without needing to seek consensus on every decision—since doing so can slow down the team—we also expect them to exercise that discretion responsibly.
+
+A few example of when mod actions **shouldn't** be issued:
+- **At a member's request**: If someone asks for a warning or mute, do not just issue it. Our cases system exists solely for actual violations of the code of conduct.
+- **Without context**: If you don't have enough information to make a decision, err on the side of caution and don't take any action *yet*.
+- **As a joke**: Moderation isn’t a game. Using warns, mutes, or bans humorously undermines the seriousness of these actions and can damage trust within the community.
