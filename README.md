@@ -36,6 +36,19 @@
     - [4.3 Setting a Positive Example for the Community](#43-setting-a-positive-example-for-the-community)
 - [5. Ticket Procedure and Etiquette](#5-ticket-procedure-and-etiquette)
     - [5.1 Establishing Clear Ticketing Guidelines](#51-establishing-clear-ticketing-guidelines)
+      - [What is a ticket?](#what-is-a-ticket)
+      - [Opening a ticket](#opening-a-ticket)
+      - [Adding a user to the ticket](#adding-a-user-to-the-ticket)
+      - [Claiming the ticket](#claiming-the-ticket)
+      - [Tone and  the initial message](#tone-and--the-initial-message)
+      - [The body of the ticket](#the-body-of-the-ticket)
+      - [Closing your opening message](#closing-your-opening-message)
+      - [How to respond to members in a ticket](#how-to-respond-to-members-in-a-ticket)
+      - [If you’re ever stuck](#if-youre-ever-stuck)
+      - [Warning the user](#warning-the-user)
+      - [To use this command, simply:](#to-use-this-command-simply)
+      - [Closing the ticket](#closing-the-ticket)
+      - [And thats all !](#and-thats-all-)
     - [5.2 Prioritizing and Assigning Tickets Effectively](#52-prioritizing-and-assigning-tickets-effectively)
     - [5.3 Communicating Professionally and Promptly](#53-communicating-professionally-and-promptly)
 - [6. Familiarization with Built in Discord Tools and Features](#6-familiarization-with-built-in-discord-tools-and-features)
@@ -105,6 +118,127 @@ Effective moderation is essential for creating safe, welcoming, and productive D
 # 5. Ticket Procedure and Etiquette
 
 ### 5.1 Establishing Clear Ticketing Guidelines
+Exercising your discretion, you opt to make a ticket to address either a Code of Conduct infringement or another general concern or query.
+This segment sets out key guidance and the general outline of how your tickets should be structured.
+
+#### What is a ticket? 
+
+A ticket is simply a temporary channel created for the moderator to directly communicate with any user they wish.
+
+A moderator can add a user to the ticket, resolve the issue and then close the ticket when the objectives of the ticket are met. 
+We use tickets to ensure a direct line of communication with our members, maintaining professionalism in a space infinitely less cluttered than in popular chats such as ⁠general
+
+#### Opening a ticket
+
+Depending on your preference, two methods can be used to open a ticket:
+
+1. `-ticket`
+2. `/ticket`
+
+#### Adding a user to the ticket
+
+When a ticket is created, only you and your colleagues in the mod team will be able to access it. In order to talk to a member, you’ll need to add them to the ticket.
+
+You can do this by simply typing:
+
+`/add [user]`
+
+#### Claiming the ticket
+
+An important point to note, as part of the ATL moderation team, we operate a *“One-moderator-per-ticket”* policy. This means that only one moderator should interact with a ticket at any given time (unless in exceptional circumstances when an Admin may need to intervene).
+
+We do this to ensure that our members feel fairly treated and lessen the chance of them feeling overwhelmed or like they’re being “ganged up on”. It also prevents  moderators unintentionally conflicting each other and stepping on each other’s toes.
+
+To help maintain this practice - each ticket must be “claimed” by the moderator who made the ticket. This can be achieved by pressing the “*Claim ticket*” button at the top of each ticket.
+
+By doing so, you make it so that only you can interact with the ticket and its contents.
+
+#### Tone and  the initial message
+
+The most important aspect of your ticket is the opening message. Maintaining professionalism and addressing the member with an appropriate tone are just some of the requirements needed for this.
+
+You’ll come to learn as a moderator that opening a ticket with a positive and respectful tone is often the driving force behind achieving the outcome you wish to accomplish.
+
+The vast majority of tickets should be opened with a greeting, making sure to @ the user you wish to address - our advice would also be to include a friendly opening line. 
+
+For example:
+
+`Hello @user - I hope you’re having a good day!` 
+ 
+Crucially (and one cannot stress this enough) by opening a ticket with a positive attitude and demeanour, as demonstrated above, you place yourself in the best possible scenario to get the optimal outcome. 
+
+#### The body of the ticket
+
+The bulk of the ticket will be case specific -  that is to say, entirely dependent on whatever it is you have ticketed the user for. However, there is a general scaffold you should follow when composing this section.
+
+Let us take an example of a user with an NSFW bio, thereby violating our Server Code for Conduct - §1.1. Your ticket body should be structured similarly to the following:
+
+`“It has come to my attention that your bio contains an NSFW element - this violates our server Code of Conduct - Rule 1.1.
+Our server contains a large minor contingent, and therefore we ask that members have bios appropriate for *all* ages.
+Please rectify this in order to remain a part of our community.”` 
+
+
+As shown, your body should:
+
+a) *Address* what you’re not happy with
+
+b) *Reference* which area of the Code of Conduct they are in violation of
+
+c) *Point* towards how they can rectify their actions, and subtly hint as to what could happen should they choose not to 
+
+#### Closing your opening message
+
+With the conclusion of the body  - rejoice! The hardest part is over. Wrapping up your opening statement, is simple.
+
+We would advise to end with:
+`“Any questions, do let me know.”`
+
+All this does is help tie up your remarks, and encourage the user to engage with the ticket. 
+
+#### How to respond to members in a ticket
+
+Working on the assumption that your member has noticed the ticket and interacted with it - it’s important to respond to any statements, questions or concerns they have with etiquette, decency and decorum. And above all, *patience*.
+
+You are *far* more likely to make errors of judgment if you are rushing to respond or defend yourself to a member in a ticket.
+
+To reduce this occurring, we advise waiting a couple of minutes between receiving their message and responding to it with one of your own - by slowing things down you give yourself more time to formulate an appropriate response and reign in any potential emotional flaws with your response. 
+
+#### If you’re ever stuck
+
+If you ever find yourself in a pickle, or feel that you’re unsure on how best to reply - please don’t think that you are required to figure it out for yourself!
+
+Your fellow moderators in ⁠mod-chat will always be around to provide sound guidance and advice, so don’t hesitate to reach out.
+
+#### Warning the user
+
+When all is said and done, if required you’ll need to log the user and their infraction with Wick’s "Warn" command. Wick is one of the bots you’ll learn to use in its entirety - but for now let’s just focus on the warn command.
+
+#### To use this command, simply:
+`/warn [user] [reason]` 
+
+Note: There is no need to use the `proof` prefix.
+
+When writing the reason section of the warn, make sure to reference the area of the CoC that they have violated. 
+
+For example, if we continue with the NSFW bio scenario from earlier:
+
+`/warn [user] reason: NSFW bio - kindly agreed to change it [1.1]` 
+
+#### Closing the ticket
+
+Huzzah! You’re nearly done - but we need to close the ticket before you can go enjoy a well deserved break. Firstly, ensure that the member has no more questions or queries - once you’ve received this confirmation you’re ready to close the ticket.
+
+You can do so in two ways:
+
+`/close` - this will generate a button that will close the ticket immediately upon being pressed
+
+`-rclose` - this method will generate a button for the member to close the ticket themselves
+ 
+#### And thats all !
+
+And with that, you’ve just completed your first ticket - congratulations! It really is as easy as that, remember if you’re ever stuck you’ve got a wonderful team to help guide you along the way.
+
+Happy ticketing !!! 
 ### 5.2 Prioritizing and Assigning Tickets Effectively
 ### 5.3 Communicating Professionally and Promptly
 
