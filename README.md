@@ -72,19 +72,20 @@ Our team is as follows:
 | Kaizen      | Founder, Owner   |
 | Scott       | Administrator    |
 | Tess        | Administrator    |
+| Estralia    | Senior Moderator |
 | Exulan      | Senior Moderator |
 | FarCotton   | Senior Moderator |
 | Khrozma     | Senior Moderator |
 | Amilie      | Moderator        |
 | Arkannon    | Moderator (VC)   |
 | Atmois      | Moderator        |
-| Beacrox     | Moderator        |
-| Estralia    | Moderator        |
 | Flatbread   | Moderator (VC)   |
 | Green       | Moderator        |
+| Ilovecanada | Moderator        |
 | Lactose     | Moderator (VC)   |
 | Pocki       | Moderator        |
-| Ilovecanada | Junior Moderator |
+| Glocean     | Junior Moderator |
+| .imnotpolar | Junior Moderator |
 | Vuks        | Junior Moderator |
 
 ## 1.2 The Chain of Command
