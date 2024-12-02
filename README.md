@@ -86,6 +86,7 @@ Our team is as follows:
 | Pocki       | Moderator        |
 | Ilovecanada | Junior Moderator |
 | Vuks        | Junior Moderator |
+| Glocean     | Junior Moderator |
 
 ## 1.2 The Chain of Command
 In All Things Linux, the chain of command is structured as follows:
