@@ -15,6 +15,7 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**
 
+  - [Acknowledgements](#acknowledgements)
 - [1. Introduction](#1-introduction)
   - [1.1 Welcome to the Team](#11-welcome-to-the-team)
   - [1.2 The Chain of Command](#12-the-chain-of-command)
@@ -224,7 +225,7 @@ The bulk of the ticket will be case specific - that is to say, entirely dependen
 
 Let us take an example of a user with an NSFW bio, thereby violating our Server Code for Conduct - §1.1. Your ticket body should be structured similarly to the following:
 
-"It has come to my attention that your bio contains an NSFW element - this violates our server Code of Conduct - Rule 1.1. Our server contains a large minor contingent, and therefore we ask that members have bios appropriate for all ages. Please rectify this in order to remain a part of our community."
+```"I've noticed that your bio contains NSFW elements which goes against our server Code of Conduct - rule 1.1. Should you wish to remain a part of our community, would you mind please removing this?"```
 
 As shown, your body should:
 a) Address what you're not happy with
