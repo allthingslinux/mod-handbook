@@ -15,6 +15,7 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**
 
+  - [Acknowledgements](#acknowledgements)
 - [1. Introduction](#1-introduction)
   - [1.1 Welcome to the Team](#11-welcome-to-the-team)
   - [1.2 The Chain of Command](#12-the-chain-of-command)
