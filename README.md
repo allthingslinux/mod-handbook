@@ -85,8 +85,9 @@ Our team is as follows:
 | Ilovecanada | Moderator        |
 | Lactose     | Moderator (VC)   |
 | Pocki       | Moderator        |
+| Imnotpolar  | Moderator        |
+| Electron    | Moderator        |
 | Glocean     | Junior Moderator |
-| .imnotpolar | Junior Moderator |
 | Vuks        | Junior Moderator |
 
 ## 1.2 The Chain of Command
