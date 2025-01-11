@@ -80,13 +80,13 @@ Our team is as follows:
 | Amilie      | Moderator        |
 | Arkannon    | Moderator (VC)   |
 | Atmois      | Moderator        |
+| Electron    | Moderator        |
 | Flatbread   | Moderator (VC)   |
 | Green       | Moderator        |
+| Imnotpolar  | Moderator        |
 | Ilovecanada | Moderator        |
 | Lactose     | Moderator (VC)   |
 | Pocki       | Moderator        |
-| Imnotpolar  | Moderator        |
-| Electron    | Moderator        |
 | Glocean     | Junior Moderator |
 | Vuks        | Junior Moderator |
 
