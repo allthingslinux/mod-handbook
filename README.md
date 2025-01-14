@@ -15,6 +15,7 @@
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**
 
+  - [Acknowledgements](#acknowledgements)
 - [1. Introduction](#1-introduction)
   - [1.1 Welcome to the Team](#11-welcome-to-the-team)
   - [1.2 The Chain of Command](#12-the-chain-of-command)
@@ -79,13 +80,14 @@ Our team is as follows:
 | Amilie      | Moderator        |
 | Arkannon    | Moderator (VC)   |
 | Atmois      | Moderator        |
+| Electron    | Moderator        |
 | Flatbread   | Moderator (VC)   |
 | Green       | Moderator        |
+| Imnotpolar  | Moderator        |
 | Ilovecanada | Moderator        |
 | Lactose     | Moderator (VC)   |
 | Pocki       | Moderator        |
 | Glocean     | Junior Moderator |
-| .imnotpolar | Junior Moderator |
 | Vuks        | Junior Moderator |
 
 ## 1.2 The Chain of Command
