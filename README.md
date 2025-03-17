@@ -52,7 +52,7 @@
 - [4. Conclusion](#4-conclusion)
     - [4.1 Recap of Key Points](#41-recap-of-key-points)
     - [4.2 Continuous Learning and Improvement](#42-continuous-learning-and-improvement)
-    - [4.3 Importance of Upholding Community Values](#43-importance-of-upholding-community-values)
+    - [4.3 End](#43-end)
 - [License](#license)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
