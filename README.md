@@ -152,16 +152,16 @@ It's important to remember that issuing warns, mutes, or bans should never be ta
 As a moderator, you'll often need to address situations directly in the chat before they escalate to the point of needing a ticket. Here are some tips for handling common scenarios:
 
 ### 2.4.1 Elitism or Gatekeeping
-Example: A user is making comments like "If you don't use Arch Linux, you're not a real Linux user."
+Example: A user is making comments like `"If you don't use Arch Linux, you're not a real Linux user."`
 
 In this case, a quick, friendly reminder in the chat can often suffice:
-"Hey @user, let's remember that Linux is for everyone, regardless of their distribution of choice. We want to keep this community welcoming to users of all skill levels and preferences."
+`"Hey @user, let's remember that Linux is for everyone, regardless of their distribution of choice. We want to keep this community welcoming to users of all skill levels and preferences."`
 
 ### 2.4.2 Heated Debates
 Example: A discussion about the best text editor is getting increasingly aggressive.
 
 Here, you might step in with:
-"Alright folks, let's take a step back. Everyone has their preferences, and that's okay! Let's keep this discussion friendly and respectful."
+`"Alright folks, let's take a step back. Everyone has their preferences, and that's okay! Let's keep this discussion friendly and respectful."`
 
 If the situation continues to escalate, consider moving the conversation to a ticket to address it more directly with the involved parties.
 
@@ -169,9 +169,9 @@ If the situation continues to escalate, consider moving the conversation to a ti
 Example: A conversation in #linux has derailed into an off-topic discussion about favorite movies.
 
 A gentle redirection can help here:
-"Hey everyone, let's try to keep #linux focused on Linux and tech topics. Feel free to continue the movie discussion in ⁠off-topic!"
+`"Hey everyone, let's try to keep #linux focused on Linux and tech topics. Feel free to continue the movie discussion in ⁠off-topic!"`
 
-The key in chat is to keep your interventions brief and positive. Aim to guide the conversation back on track without being overly disruptive. If a situation can't be resolved with a quick comment or two, it's probably time to move the culprit users to a ticket.
+The key in chat is to keep your interventions brief and positive. Aim to guide the conversation back on track without being overly disruptive. If a situation can't be resolved with a quick comment or two, it's probably time to move the culprit users to a ticket.`
 
 # 3. Ticket Procedure and Etiquette
 
@@ -204,7 +204,7 @@ An important point to note, as part of the ATL moderation team, we operate a "On
 
 We do this to ensure that our members feel fairly treated and lessen the chance of them feeling overwhelmed or like they're being "ganged up on". It also prevents moderators unintentionally conflicting each other and stepping on each other's toes.
 
-To help maintain this practice "david beckham studies"  - each ticket must be "claimed" by the moderator who made the ticket. This can be achieved by pressing the "Claim ticket" button at the top of each ticket.
+To help maintain this practice, each ticket must be "claimed" by the moderator who made the ticket. This can be achieved by pressing the "Claim ticket" button at the top of each ticket.
 
 By doing so, you make it so that only you can interact with the ticket and its contents.
 
