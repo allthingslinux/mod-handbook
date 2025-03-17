@@ -226,12 +226,15 @@ The bulk of the ticket will be case specific - that is to say, entirely dependen
 
 Let us take an example of a user with an NSFW bio, thereby violating our Server Code for Conduct - §1.1. Your ticket body should be structured similarly to the following:
 
-"It has come to my attention that your bio contains an NSFW element - this violates our server Code of Conduct - Rule 1.1. Our server contains a large minor contingent, and therefore we ask that members have bios appropriate for all ages. Please rectify this in order to remain a part of our community."
+`We've noticed that your bio contains an NSFW element - this violates our server Code of Conduct - Rule 1.1. Our server contains quite a lot of minors, and therefore we ask that members have bios appropriate for all ages. Please change this as soon as you can in order to remain a part of our community.`
 
 As shown, your body should:
-a) Address what you're not happy with
-b) Reference which area of the Code of Conduct they are in violation of  
-c) Point towards how they can rectify their actions, and subtly hint as to what could happen should they choose not to
+
+a) *Address* what you're not happy with
+
+b) *Reference* which area of the Code of Conduct they are in violation of  
+
+c) *Point* towards how they can rectify their actions, and subtly hint as to what could happen should they choose not to
 
 ### 3.2.3 Closing Your Opening Message
 With the conclusion of the body - rejoice! The hardest part is over. Wrapping up your opening statement, is simple. 
@@ -282,8 +285,27 @@ Happy ticketing!!!
 # 4. Conclusion
 
 ### 4.1 Recap of Key Points
+To summarise, to be a successful Moderator on our team, it all boils down to this:
+
+* Moderation is about fostering a positive, welcoming community. Your role is to maintain a positive environment, mediate conflicts and uphold our ethos without bias.
+
+* Appreciate the chain of command. While everyone's voice matters, its alright to escalate issues to senior moderators or administrators and seek help from your colleagues!
+
+* Use the Code of Conduct as your guide. Ensure consistency in enforcing rules and always reference the relevant rule when justfiying moderation actions.
+
+* Handle issues professionally. Avoid using moderation actions as jokes or without proper context. Transparency and accountability are key.
+
+Whether in chat or tickets, be clear, fair, and open to discussion. Stay adaptable, the community will evolve and so you need to be always ready to adapt on the fly.
+
 ### 4.2 Continuous Learning and Improvement
-### 4.3 Importance of Upholding Community Values
+Nobody is a complete package - and we never stop learning.
+Take it in your stride, and be the best that you can be.
+
+### 4.3 End 
+Moderation is challenging yes, there's no doubt about it.
+But, is it rewarding? Absolutely.
+
+Enjoy your time as part of our family, and we hope you take the lessons you experience throughout your time here and continue to grow not only as a moderator, but as an individual too.
 
 ---
 
