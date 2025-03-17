@@ -68,27 +68,26 @@ Here at All Things Linux, our staff team is a tight-knit bunch of volunteers who
 
 Our team is as follows:
 
-| Name        | Role             |
-| ----------- | ---------------- |
-| Kaizen      | Founder, Owner   |
-| Scott       | Administrator    |
-| Tess        | Administrator    |
-| Estralia    | Senior Moderator |
-| Exulan      | Senior Moderator |
-| FarCotton   | Senior Moderator |
-| Khrozma     | Senior Moderator |
-| Amilie      | Moderator        |
-| Arkannon    | Moderator (VC)   |
-| Atmois      | Moderator        |
-| Electron    | Moderator        |
-| Flatbread   | Moderator (VC)   |
-| Green       | Moderator        |
-| Imnotpolar  | Moderator        |
-| Ilovecanada | Moderator        |
-| Lactose     | Moderator (VC)   |
-| Pocki       | Moderator        |
-| Glocean     | Junior Moderator |
-| Vuks        | Junior Moderator |
+| Name        | Role                    |
+| ----------- | ----------------------- |
+| Kaizen      | Founder, Owner          |
+| Scott       | Administrator           |
+| Estralia    | Senior Moderator        |
+| Exulan      | Senior Moderator        |
+| FarCotton   | Senior Moderator        |
+| Khrozma     | Senior Moderator        | 
+| Atmois      | Assistant Administrator |
+| Green       | Assistant Administrator |
+| Amilie      | Moderator               |
+| Arkannon    | Moderator (VC)          |
+| Electron    | Moderator               |
+| Flatbread   | Moderator (VC)          |
+| Glocean     | Moderator               | 
+| Ilovecanada | Moderator               |
+| Imnotpolar  | Moderator               |
+| Lactose     | Moderator (VC)          |
+| Pocki       | Moderator               |
+| Vuks        | Moderator               |
 
 ## 1.2 The Chain of Command
 In All Things Linux, the chain of command is structured as follows:
@@ -97,8 +96,9 @@ In All Things Linux, the chain of command is structured as follows:
 2. **Administrators**: Responsible for managing the server, implementing policies, and supporting moderators in their roles.
 3. **Moderator Director**: The head of the moderation team, responsible for training, support, and ensuring the effective implementation of moderation policies.
 4. **Senior Moderators**: Experienced moderators who take on additional responsibilities, such as handling escalated issues and providing guidance to other moderators.
-5. **Moderators**: The frontline team that actively engages with the community, enforces rules, and addresses member concerns.
-6. **Junior Moderators**: Newer members of the moderation team who are learning the ropes and assisting moderators in their duties.
+5. **Assistant Administrators**: A dedicated position that not only acts as a liason between the moderation team and administration, but also leads some server-wide projects.
+6. **Moderators**: The frontline team that actively engages with the community, enforces rules, and addresses member concerns.
+7. **Junior Moderators**: Newer members of the moderation team who are learning the ropes and assisting moderators in their duties.
 
 We want to make it clear that every voice on our staff team matters! While we have a chain of command, our internal chats are pretty laid-back. We encourage everyone to toss out suggestions and share fresh ideas, no matter their role. You'll quickly see that we're a friendly and open team, always ready to hear your thoughts and ideas, no matter where you fit in.
 
@@ -204,7 +204,7 @@ An important point to note, as part of the ATL moderation team, we operate a "On
 
 We do this to ensure that our members feel fairly treated and lessen the chance of them feeling overwhelmed or like they're being "ganged up on". It also prevents moderators unintentionally conflicting each other and stepping on each other's toes.
 
-To help maintain this practice - each ticket must be "claimed" by the moderator who made the ticket. This can be achieved by pressing the "Claim ticket" button at the top of each ticket.
+To help maintain this practice "david beckham studies"  - each ticket must be "claimed" by the moderator who made the ticket. This can be achieved by pressing the "Claim ticket" button at the top of each ticket.
 
 By doing so, you make it so that only you can interact with the ticket and its contents.
 
