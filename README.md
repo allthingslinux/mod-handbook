@@ -79,13 +79,13 @@ Our team is as follows:
 | Atmois      | Assistant Administrator |
 | Green       | Assistant Administrator |
 | Amilie      | Moderator               |
-| Arkannon    | Moderator (VC)          |
+| Arkannon    | Moderator               |
 | Electron    | Moderator               |
-| Flatbread   | Moderator (VC)          |
+| Flatbread   | Moderator               |
 | Glocean     | Moderator               | 
 | Ilovecanada | Moderator               |
 | Imnotpolar  | Moderator               |
-| Lactose     | Moderator (VC)          |
+| Lactose     | Moderator               |
 | Pocki       | Moderator               |
 | Vuks        | Moderator               |
 
@@ -176,22 +176,37 @@ The key in chat is to keep your interventions brief and positive. Aim to guide t
 # 3. Ticket Procedure and Etiquette
 
 ## 3.1 Establishing Clear Ticketing Guidelines
-Exercising your discretion, you opt to make a ticket to address either a Code of Conduct infringement or another general concern or query. This segment sets out key guidance and the general outline of how your tickets should be structured.
+Exercising your discretion, you may opt to make a ticket to address a Code of Conduct infringement, query, or general concern. This segment sets out key guidance and the general outline of how your tickets should be structured.
 
 ### 3.1.1 What is a Ticket?
 A ticket is simply a temporary channel created for the moderator to directly communicate with any user they wish.
 
-A moderator can add a user to the ticket, resolve the issue and then close the ticket when the objectives of the ticket are met. We use tickets to ensure a direct line of communication with our members, maintaining professionalism in a space infinitely less cluttered than in popular chats such as ⁠general.
+A ticket is a temporary channel that provides users and moderators a direct line of communication outside of public channels.
+
+A ticket can be opened by both moderators and members
+
+A member may open a ticket in order to:
+
+1. Report a Code of Conduct violation
+2. Ask a question about the Code of Conduct or the server as a whole
+3. complain about moderation
+4. make suggestions
+
+A moderator may open a ticket in order to:
+
+1. Address a Code of Conduct violation
+2. general queries
+3. ask users about a reccent incident
+4. gather information concerning a user
+
+
+
+A moderator can add a user to the ticket, resolve the issue and then close the ticket when the objectives of the ticket are met. We use tickets to ensure a direct line of communication with our members, maintaining professionalism in a space less noisy than public chats. 
 
 ### 3.1.2 Opening a Ticket
-Depending on your preference, two methods can be used to open an empty ticket:
+Depending on your preference, two methods can be used to open a new ticket:
 1. `-ticket`
 2. `/ticket`
-
-Additionally, if you want to open a ticket with the target user already added, you can do so:
-1. Right-click on the user's profile. (or on mobile simply open their server profile)
-2. Select "Apps"
-3. Click "Create Ticket"
 
 ### 3.1.3 Adding a User to the Ticket
 When a ticket is created, only you and your colleagues in the mod team will be able to access it. In order to talk to a member, you'll need to add them to the ticket.
@@ -199,30 +214,38 @@ When a ticket is created, only you and your colleagues in the mod team will be a
 You can do this by simply typing:
 `/add [user]`
 
+Alternatively, you can streamline this process by creating a ticket and adding a user in one action.
+1. Right-click on the user's profile (or on mobile simply open their server profile)
+2. Select "Apps"
+3. Click "Create Ticket"
+
 ### 3.1.4 Claiming the Ticket
-An important point to note, as part of the ATL moderation team, we operate a "One-moderator-per-ticket" policy. This means that only one moderator should interact with a ticket at any given time (unless in exceptional circumstances when an Admin may need to intervene). 
+An important point to note, as part of the ATL moderation team, we operate on a "One-moderator-per-ticket" policy. This means that only one moderator should interact with a ticket at any given time (unless in exceptional circumstances when an Admin may need to intervene).
 
-We do this to ensure that our members feel fairly treated and lessen the chance of them feeling overwhelmed or like they're being "ganged up on". It also prevents moderators unintentionally conflicting each other and stepping on each other's toes.
+We do this to ensure that our members feel fairly treated and lessen the chance of them feeling overwhelmed or like they're being "ganged up on". It also prevents moderators unintentionally contradicting each other and stepping on each other's toes.
 
-To help maintain this practice, each ticket must be "claimed" by the moderator who made the ticket. This can be achieved by pressing the "Claim ticket" button at the top of each ticket.
+To help maintain this practice, the author must "claim" each ticket. This can be achieved by pressing the "Claim Ticket" button at the top of each ticket.
 
 By doing so, you make it so that only you can interact with the ticket and its contents.
 
 ## 3.2 Composing Your Ticket Message
+
 ### 3.2.1 Tone and the Initial Message
 The most important aspect of your ticket is the opening message. Maintaining professionalism and addressing the member with an appropriate tone are just some of the requirements needed for this. 
 
 You'll come to learn as a moderator that opening a ticket with a positive and respectful tone is often the driving force behind achieving the outcome you wish to accomplish.
 
-The vast majority of tickets should be opened with a greeting, making sure to @ the user you wish to address - our advice would also be to include a friendly opening line.
+The vast majority of tickets should be opened with a greeting, making sure to @ the user you wish to address - our advice would also be to include a friendly opening line to supplement this.
 
-For example:  
+For example:
 `Hello @user - I hope you're having a good day!`
 
-Crucially (and one cannot stress this enough) by opening a ticket with a positive attitude and demeanour, as demonstrated above, you place yourself in the best possible scenario to get the optimal outcome.
+Crucially (and one cannot stress this enough) by opening a ticket with a positive attitude and demeanour, as demonstrated above, you place yourself in the best possible position to get the optimal outcome.
 
 ### 3.2.2 The Body of the Ticket
-The bulk of the ticket will be case specific - that is to say, entirely dependent on whatever it is you have ticketed the user for. However, there is a general scaffold you should follow when composing this section.
+The bulk of the ticket will be case specific - that is to say, entirely dependent on whatever it is you have ticketed the user for. 
+
+However, in the case of a Code of Conduct violation, there is a general scaffold you should follow when composing this section.
 
 Let us take an example of a user with an NSFW bio, thereby violating our Server Code for Conduct - §1.1. Your ticket body should be structured similarly to the following:
 
@@ -240,31 +263,33 @@ c) *Point* towards how they can rectify their actions, and subtly hint as to wha
 With the conclusion of the body - rejoice! The hardest part is over. Wrapping up your opening statement, is simple. 
 
 We would advise to end with:
-"Any questions, do let me know."
+`"Any questions, do let me know."`
 
 All this does is help tie up your remarks, and encourage the user to engage with the ticket.
 
 ## 3.3 Interacting with Members in a Ticket
+
 ### 3.3.1 How to Respond to Members
-Working on the assumption that your member has noticed the ticket and interacted with it - it's important to respond to any statements, questions or concerns they have with etiquette, decency and decorum. And above all, patience.
+Working on the assumption that your member has noticed the ticket and interacted with it - it's important to respond to any statements, questions or concerns they have with etiquette, decency, dcorum and above all, patience.
 
 You are far more likely to make errors of judgment if you are rushing to respond or defend yourself to a member in a ticket. 
 
-To reduce this occurring, we advise waiting a couple of minutes between receiving their message and responding to it with one of your own - by slowing things down you give yourself more time to formulate an appropriate response and reign in any potential emotional flaws with your response.
+To reduce this occurring, we advise waiting a couple of minutes between receiving their message and responding to it with one of your own - by slowing things down, you give yourself more time to formulate an appropriate response and reign in any potential emotional factors.
 
 ### 3.3.2 If You're Ever Stuck
 If you ever find yourself in a pickle, or feel that you're unsure on how best to reply - please don't think that you are required to figure it out for yourself!
 
-Your fellow moderators in ⁠mod-chat will always be around to provide sound guidance and advice, so don't hesitate to reach out.
+Your fellow moderators in #⁠mod-chat will always be around to provide sound guidance and advice, so don't hesitate to reach out.
 
 ## 3.4 Wrapping Up the Ticket
+
 ### 3.4.1 Warning the User
 When all is said and done, if required you'll need to log the user and their infraction with Wick's "Warn" command. Wick is one of the bots you'll learn to use in its entirety - but for now let's just focus on the warn command.
 
 To use this command, simply:
 `/warn [user] [reason]`
 
-Note: There is no need to use the `proof` prefix.
+[Note: There is no need to use the `proof` prefix.]
 
 When writing the reason section of the warn, make sure to reference the area of the CoC that they have violated.
 
@@ -272,7 +297,9 @@ For example, if we continue with the NSFW bio scenario from earlier:
 `/warn [user] reason: NSFW bio - kindly agreed to change it [1.1]`
 
 ### 3.4.2 Closing the Ticket
-Huzzah! You're nearly done - but we need to close the ticket before you can go enjoy a well deserved break. Firstly, ensure that the member has no more questions or queries - once you've received this confirmation you're ready to close the ticket.
+Huzzah! You're nearly done - but we need to close the ticket before you can go enjoy a well deserved break.
+
+Firstly, ensure that the member has no more questions or queries - once you've received this confirmation you're ready to close the ticket.
 
 You can do so in two ways:
 `/close` - this will generate a button that will close the ticket immediately upon being pressed
@@ -281,6 +308,8 @@ You can do so in two ways:
 And that's all! And with that, you've just completed your first ticket - congratulations! It really is as easy as that, remember if you're ever stuck you've got a wonderful team to help guide you along the way.
 
 Happy ticketing!!!
+
+MAYBE ADD EXAMPLE WORKFLOWS
 
 # 4. Conclusion
 
