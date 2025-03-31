@@ -78,6 +78,7 @@ Our team is as follows:
 | Khrozma     | Senior Moderator        | 
 | Atmois      | Assistant Administrator |
 | Green       | Assistant Administrator |
+| Owuawo      | Asisstant Administrator |
 | Amilie      | Moderator               |
 | Arkannon    | Moderator (VC)          |
 | Electron    | Moderator               |
