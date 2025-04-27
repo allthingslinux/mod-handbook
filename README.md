@@ -170,7 +170,7 @@ If the situation continues to escalate, consider moving the conversation to a ti
 Example: A conversation in #linux has derailed into an off-topic discussion about favorite movies.
 
 A gentle redirection can help here:
-`"Hey everyone, let's try to keep #linux focused on Linux and tech topics. Feel free to continue the movie discussion in ⁠off-topic!"`
+`"Hey everyone, let's try to keep #linux focused on Linux and tech topics. Feel free to continue the movie discussion in #off-topic!"`
 
 The key in chat is to keep your interventions brief and positive. Aim to guide the conversation back on track without being overly disruptive. If a situation can't be resolved with a quick comment or two, it's probably time to move the culprit users to a ticket.
 
@@ -252,17 +252,15 @@ Let us take an example of a user with an NSFW bio, thereby violating our Server 
 
 As shown, your body should:
 
-a) *Address* what you're not happy with
-
-b) *Reference* which area of the Code of Conduct they are in violation of by linking to the copy on our [website](https://allthingslinux.org/code-of-conduct) or [GitHub repository](https://github.com/allthingslinux/code-of-conduct)
-
-c) *Point* towards how they can rectify their actions, and subtly hint as to what could happen should they choose not to
+1. *Address* what you're not happy with
+2. *Reference* which area of the Code of Conduct they are in violation of by linking to the copy on our [website](https://allthingslinux.org/code-of-conduct) or [GitHub repository](https://github.com/allthingslinux/code-of-conduct)
+3. *Point* towards how they can rectify their actions, and subtly hint as to what could happen should they choose not to
 
 ### 3.2.3 Closing Your Opening Message
 With the conclusion of the body—rejoice! The hardest part is over. Wrapping up your opening statement, is simple.
 
 We would advise to end with:
-"Any questions, do let me know."
+`"If you have any questions, do let me know."`
 
 All this does is help tie up your remarks, and encourage the user to engage with the ticket.
 
@@ -278,7 +276,7 @@ To reduce this occurring, we advise waiting a couple of minutes between receivin
 ### 3.3.2 If You're Ever Stuck
 If you ever find yourself in a pickle, or feel that you're unsure on how best to reply, please don't think that you are required to figure it out for yourself!
 
-Your fellow moderators in ⁠mod-chat will always be around to provide sound guidance and advice, so don't hesitate to reach out.
+Your fellow moderators in `#mod-chat` will always be around to provide sound guidance and advice, so don't hesitate to reach out.
 
 ## 3.4 Wrapping Up the Ticket
 ### 3.4.1 Warning the User
