@@ -305,6 +305,19 @@ And that's all! And with that, you've just completed your first ticket—congrat
 
 Happy ticketing!!!
 
+### 3.4.2 Example Ticket Workflows
+1. Open a ticket using `/ticket` or `-ticket` without ading a user.
+2. Write a complete opening message. Ensure that all points are covered; use multiple messages if required.
+3. Add a member to the ticket using `/add`.
+4. Mention the member with an @ so they get notified of the ticket.
+
+This is ideal for tickets that are neither critical nor time sensitive. Members can get needlessly anxious when they are added to an empty ticket while you are typing, so preparing your message beforehand can prevent unnecessary stress.
+
+1. Right click on a member's profile, and click on `Create Ticket` in the apps menu. This will immediately add the member to the new ticket.
+2. The target member should be notified after the ticket is created. At this point you can address the member while they have your attention.
+
+This works for immediate concerns that need to be addressed quickly. You can run tickets this way for cases that are easily resolvable or just to promptly pull someone aside.
+
 # 4. Conclusion
 
 ### 4.1 Recap of Key Points
