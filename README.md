@@ -203,20 +203,20 @@ A moderator may open a ticket in order to:
 A moderator can add a user to the ticket, resolve the issue and then close the ticket when the objectives of the ticket are met. We use tickets to ensure a direct line of communication with our members, maintaining professionalism in a space less noisy than public chats.
 
 ### 3.1.2 Opening a Ticket
-Depending on your preference, two methods can be used to open an empty ticket:
-1. `-ticket`
-2. `/ticket`
-
-Additionally, if you want to open a ticket with the target user already added, you can do so:
-1. Right-click on the user's profile. (or on mobile simply open their server profile)
-2. Select "Apps"
-3. Click "Create Ticket"
+Depending on your preference, two methods can be used to open a new ticket:
+- `/ticket`
+- `-ticket`
 
 ### 3.1.3 Adding a User to the Ticket
 When a ticket is created, only you and your colleagues in the mod team will be able to access it. In order to talk to a member, you'll need to add them to the ticket.
 
 You can do this by simply typing:
 `/add [user]`
+
+Alternatively, you can streamline this process by creating a ticket and adding a user in one action.
+1. Right-click on the user's profile (or on mobile simply open their server profile)
+2. Select "Apps"
+3. Click "Create Ticket"
 
 ### 3.1.4 Claiming the Ticket
 An important point to note, as part of the ATL moderation team, we operate a "One-moderator-per-ticket" policy. This means that only one moderator should interact with a ticket at any given time (unless in exceptional circumstances when an Admin may need to intervene). 
