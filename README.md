@@ -80,13 +80,13 @@ Our team is as follows:
 | Green       | Assistant Administrator |
 | Owuawo      | Asisstant Administrator |
 | Amilie      | Moderator               |
-| Arkannon    | Moderator (VC)          |
+| Arkannon    | Moderator               |
 | Electron    | Moderator               |
-| Flatbread   | Moderator (VC)          |
+| Flatbread   | Moderator               |
 | Glocean     | Moderator               | 
 | Ilovecanada | Moderator               |
 | Imnotpolar  | Moderator               |
-| Lactose     | Moderator (VC)          |
+| Lactose     | Moderator               |
 | Pocki       | Moderator               |
 | Vuks        | Moderator               |
 
