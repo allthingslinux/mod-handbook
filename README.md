@@ -78,7 +78,7 @@ Our team is as follows:
 | Khrozma     | Senior Moderator        |
 | Atmois      | Assistant Administrator |
 | Green       | Assistant Administrator |
-| Owuawo      | Asisstant Administrator |
+| Owuawo      | Assistant Administrator |
 | Amilie      | Moderator               |
 | Arkannon    | Moderator               |
 | Electron    | Moderator               |
@@ -87,7 +87,7 @@ Our team is as follows:
 | Ilovecanada | Moderator               |
 | Imnotpolar  | Moderator               |
 | Lactose     | Moderator               |
-| Pocki       | Moderator               |
+| Pockies     | Moderator               |
 | Vuks        | Moderator               |
 
 ## 1.2 The Chain of Command
@@ -97,8 +97,8 @@ In All Things Linux, the chain of command is structured as follows:
 2. **Administrators**: Responsible for managing the server, implementing policies, and supporting moderators in their roles.
 3. **Moderator Director**: The head of the moderation team, responsible for training, support, and ensuring the effective implementation of moderation policies.
 4. **Senior Moderators**: Experienced moderators who take on additional responsibilities, such as handling escalated issues and providing guidance to other moderators.
-5. **Assistant Administrators**: A dedicated position that not only acts as a liason between the moderation team and administration, but also leads some server-wide projects.
-6. **Moderators**: The frontline team that actively engages with the community, enforces rules, and addresses member concerns.
+5. **Assistant Administrators**: A dedicated position that not only acts as a liaison between the moderation team and administration, but also leads some server-wide projects.
+6. **Moderators**: The front line team that actively engages with the community, enforces rules, and addresses member concerns.
 7. **Junior Moderators**: Newer members of the moderation team who are learning the ropes and assisting moderators in their duties.
 
 We want to make it clear that every voice on our staff team matters! While we have a chain of command, our internal chats are pretty laid-back. We encourage everyone to toss out suggestions and share fresh ideas, no matter their role. You'll quickly see that we're a friendly and open team, always ready to hear your thoughts and ideas, no matter where you fit in.
@@ -234,12 +234,12 @@ The most important aspect of your ticket is the opening message. Maintaining pro
 
 You'll come to learn as a moderator that opening a ticket with a positive and respectful tone is often the driving force behind achieving the outcome you wish to accomplish.
 
-The vast majority of tickets should be opened with a greeting, making sure to @ the user you wish to address—our advice would also be to include a friendly opening line.
+The vast majority of tickets should be opened with a greeting, making sure to @ the user you wish to address—our advice would also be to include a friendly opening line to supplement this.
 
 For example:
 `Hello @user, I hope you're having a good day!`
 
-Crucially (and one cannot stress this enough) by opening a ticket with a positive attitude and demeanour, as demonstrated above, you place yourself in the best possible scenario to get the optimal outcome.
+Crucially (and one cannot stress this enough) by opening a ticket with a positive attitude and demeanor, as demonstrated above, you place yourself in the best possible position to get the optimal outcome.
 
 ### 3.2.2 The Body of the Ticket
 The bulk of the ticket will be case specific—that is to say, entirely dependent on whatever it is you have ticketed the user for.
@@ -267,7 +267,7 @@ All this does is help tie up your remarks, and encourage the user to engage with
 ## 3.3 Interacting with Members in a Ticket
 
 ### 3.3.1 How to Respond to Members
-Working on the assumption that your member has noticed the ticket and interacted with it. It's important to respond to any statements, questions or concerns they have with etiquette, decency, dcorum and above all, patience.
+Working on the assumption that your member has noticed the ticket and interacted with it. It's important to respond to any statements, questions or concerns they have with etiquette, decency, decorum and above all, patience.
 
 You are far more likely to make errors of judgment if you are rushing to respond or defend yourself to a member in a ticket.
 
@@ -278,14 +278,14 @@ If you ever find yourself in a pickle, or feel that you're unsure on how best to
 
 Your fellow moderators in `#mod-chat` will always be around to provide sound guidance and advice, so don't hesitate to reach out.
 
-## 3.4 Wrapping Up the Ticket
+## 3.4 Writing the Ticket
 ### 3.4.1 Warning the User
 When all is said and done, if required you'll need to log the user and their infraction with Wick's "Warn" command. Wick is one of the bots you'll learn to use in its entirety, but for now let's just focus on the warn command.
 
 To use this command, simply:
 `/warn [user] [reason]`
 
-Note: There is no need to use the `proof` prefix.
+Note: There is no need to use the `proof` argument.
 
 When writing the reason section of the warn, make sure to reference the area of the CoC that they have violated, and the ticket number for future reference.
 
@@ -308,13 +308,13 @@ Happy ticketing!!!
 # 4. Conclusion
 
 ### 4.1 Recap of Key Points
-To summarise, to be a successful Moderator on our team, it all boils down to this:
+To summarize, to be a successful Moderator on our team, it all boils down to this:
 
 * Moderation is about fostering a positive, welcoming community. Your role is to maintain a positive environment, mediate conflicts and uphold our ethos without bias.
 
 * Appreciate the chain of command. While everyone's voice matters, its alright to escalate issues to senior moderators or administrators and seek help from your colleagues!
 
-* Use the Code of Conduct as your guide. Ensure consistency in enforcing rules and always reference the relevant rule when justfiying moderation actions.
+* Use the Code of Conduct as your guide. Ensure consistency in enforcing rules and always reference the relevant rule when justifying moderation actions.
 
 * Handle issues professionally. Avoid using moderation actions as jokes or without proper context. Transparency and accountability are key.
 
