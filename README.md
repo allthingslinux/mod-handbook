@@ -177,7 +177,7 @@ The key in chat is to keep your interventions brief and positive. Aim to guide t
 # 3. Ticket Procedure and Etiquette
 
 ## 3.1 Establishing Clear Ticketing Guidelines
-Exercising your discretion, you opt to make a ticket to address either a Code of Conduct infringement or another general concern or query. This segment sets out key guidance and the general outline of how your tickets should be structured.
+Exercising your discretion, you may opt to make a ticket to address a Code of Conduct infringement, query, or general concern. This segment sets out key guidance and the general outline of how your tickets should be structured.
 
 ### 3.1.1 What is a Ticket?
 A ticket is simply a temporary channel created for the moderator to directly communicate with any user they wish.
