@@ -64,7 +64,7 @@
 ## 1.1 Welcome to the Team
 Before we jump into the details of this handbook, a big *thank you* for stepping up as a moderator! Your dedication to keeping our community positive, respectful, and welcoming makes a huge difference. We're excited to have you as part of the team and can't wait to work alongside you to keep making this space awesome for everyone.
 
-Here at All Things Linux, our staff team is a tight-knit bunch of volunteers who genuinely care about what we're building. We're all about creating a space where people feel safe, and where knowledge flows freely. 
+Here at All Things Linux, our staff team is a tight-knit bunch of volunteers who genuinely care about what we're building. We're all about creating a space where people feel safe, and where knowledge flows freely.
 
 Our team is as follows:
 
@@ -75,7 +75,7 @@ Our team is as follows:
 | Estralia    | Senior Moderator        |
 | Exulan      | Senior Moderator        |
 | FarCotton   | Senior Moderator        |
-| Khrozma     | Senior Moderator        | 
+| Khrozma     | Senior Moderator        |
 | Atmois      | Assistant Administrator |
 | Green       | Assistant Administrator |
 | Owuawo      | Asisstant Administrator |
@@ -83,7 +83,7 @@ Our team is as follows:
 | Arkannon    | Moderator               |
 | Electron    | Moderator               |
 | Flatbread   | Moderator               |
-| Glocean     | Moderator               | 
+| Glocean     | Moderator               |
 | Ilovecanada | Moderator               |
 | Imnotpolar  | Moderator               |
 | Lactose     | Moderator               |
@@ -110,14 +110,14 @@ Our community is a lively hub for Linux and tech enthusiasts. We've got folks fr
 Our conversations are all about tech. We love to chat about distributions, troubleshooting, custom scripts, security setups, the coolest open-source tools, or whatever new thing the FOSS world has stirred up. **The key is quality.** We want our main chats to be places where people can pick up valuable knowledge or share meaningful experiences. So, while jokes, memes, or non-tech off-topic chatter can be fun, we like to keep them minimal in our main spaces. There are other channels for that.
 
 ### 1.3.2 Fast-Paced and Always Evolving
-We're not a stale, stuck-in-the-mud community. We're fast-paced and flexible, always open to trying new things. We experiment with new channels, content types, and ways to keep people participating, learning, and enjoying themselves. Trial and error are part of our DNA. Sometimes things work out, sometimes they don't—and that's okay! We adjust as we go and aim to learn from each experiment.
+We're not a stale, stuck-in-the-mud community. We're fast-paced and flexible, always open to trying new things. We experiment with new channels, content types, and ways to keep people participating, learning, and enjoying themselves. Trial and error are part of our DNA. Sometimes things work out, sometimes they don't, and that's okay! We adjust as we go and aim to learn from each experiment.
 
 As a moderator, you'll notice that the community's needs and trends can change quickly. What might work one week could need a tweak the next. Being adaptable and open to the community's pulse will help us continue to grow and improve.
 
 # 2. The Importance of Moderation
 
 ## 2.1 The Role of a Moderator
-By moderating, you're not just enforcing rules—you're shaping a space where members can have meaningful, positive experiences. Effective moderation builds trust and encourages healthy interaction. 
+By moderating, you're not just enforcing rules—you're shaping a space where members can have meaningful, positive experiences. Effective moderation builds trust and encourages healthy interaction.
 
 ### 2.1.1 What You Are Here to Do
 - **Uphold standards**: set and enforce guidelines to ensure the community remains healthy and positive.
@@ -137,10 +137,10 @@ We obviously don't expect you to have every single rule memorized, but having a 
 
 Moderating isn't about using personal bias or enforcing your own personal views. it's about enforcing the community rules as they're written. When handling issues, especially those that aren't super urgent, take the time to reference the appropriate section of the code of conduct. This means when issuing warnings, mutes, or bans, include the specific rule number in your reason message. Doing so not only makes your actions transparent but also educates members about what behavior crossed the line and why it wasn't acceptable.
 
-Relying on the code of conduct ensures that moderation stays consistent, fair, and free from bias. It also gives members a better understanding of our standards, reducing confusion and having a sense of "accountability".
+Relying on the code of conduct ensures that moderation stays consistent, fair, and free from bias. It also gives members a better understanding of our standards, reducing confusion and having a sense of accountability.
 
 ## 2.3 Accountability
-While moderators generally have the discretion to manage situations as they see fit, it's crucial that they remain transparent about their decisions. If in a staff discussion, if we ask for clarification regarding a warning, mute, or ban, you should be ready to explain your actions and provide context. 
+While moderators generally have the discretion to manage situations as they see fit, it's crucial that they remain transparent about their decisions. If in a staff discussion, if we ask for clarification regarding a warning, mute, or ban, you should be ready to explain your actions and provide context.
 
 It's important to remember that issuing warns, mutes, or bans should never be taken lightly or used as a joke. These actions can significantly impact a member's experience, so they should be reserved for genuine violations of the code of conduct. While we trust our moderators to act independently without needing to seek consensus on every decision—since doing so can slow down the team—we also expect them to exercise that discretion responsibly.
 
@@ -172,7 +172,7 @@ Example: A conversation in #linux has derailed into an off-topic discussion abou
 A gentle redirection can help here:
 `"Hey everyone, let's try to keep #linux focused on Linux and tech topics. Feel free to continue the movie discussion in ⁠off-topic!"`
 
-The key in chat is to keep your interventions brief and positive. Aim to guide the conversation back on track without being overly disruptive. If a situation can't be resolved with a quick comment or two, it's probably time to move the culprit users to a ticket.`
+The key in chat is to keep your interventions brief and positive. Aim to guide the conversation back on track without being overly disruptive. If a situation can't be resolved with a quick comment or two, it's probably time to move the culprit users to a ticket.
 
 # 3. Ticket Procedure and Etiquette
 
@@ -228,24 +228,27 @@ To help maintain this practice, the author must "claim" each ticket. This can be
 By doing so, you make it so that only you can interact with the ticket and its contents.
 
 ## 3.2 Composing Your Ticket Message
+
 ### 3.2.1 Tone and the Initial Message
-The most important aspect of your ticket is the opening message. Maintaining professionalism and addressing the member with an appropriate tone are just some of the requirements needed for this. 
+The most important aspect of your ticket is the opening message. Maintaining professionalism and addressing the member with an appropriate tone are just some of the requirements needed for this.
 
 You'll come to learn as a moderator that opening a ticket with a positive and respectful tone is often the driving force behind achieving the outcome you wish to accomplish.
 
-The vast majority of tickets should be opened with a greeting, making sure to @ the user you wish to address - our advice would also be to include a friendly opening line.
+The vast majority of tickets should be opened with a greeting, making sure to @ the user you wish to address—our advice would also be to include a friendly opening line.
 
-For example:  
-`Hello @user - I hope you're having a good day!`
+For example:
+`Hello @user, I hope you're having a good day!`
 
 Crucially (and one cannot stress this enough) by opening a ticket with a positive attitude and demeanour, as demonstrated above, you place yourself in the best possible scenario to get the optimal outcome.
 
 ### 3.2.2 The Body of the Ticket
-The bulk of the ticket will be case specific - that is to say, entirely dependent on whatever it is you have ticketed the user for. However, there is a general scaffold you should follow when composing this section.
+The bulk of the ticket will be case specific—that is to say, entirely dependent on whatever it is you have ticketed the user for.
+
+However, in the case of a Code of Conduct violation, there is a general scaffold you should follow when composing this section.
 
 Let us take an example of a user with an NSFW bio, thereby violating our Server Code for Conduct - §1.1. Your ticket body should be structured similarly to the following:
 
-`We've noticed that your bio contains an NSFW element - this violates our server Code of Conduct - Rule 1.1. Our server contains quite a lot of minors, and therefore we ask that members have bios appropriate for all ages. Please change this as soon as you can in order to remain a part of our community.`
+`We've noticed that your bio contains an NSFW element. This violates our server Code of Conduct - Rule 1.1. Our server contains quite a lot of minors, and therefore we ask that members have bios appropriate for all ages. Please change this as soon as you can in order to remain a part of our community.`
 
 As shown, your body should:
 
@@ -256,7 +259,7 @@ b) *Reference* which area of the Code of Conduct they are in violation of by lin
 c) *Point* towards how they can rectify their actions, and subtly hint as to what could happen should they choose not to
 
 ### 3.2.3 Closing Your Opening Message
-With the conclusion of the body - rejoice! The hardest part is over. Wrapping up your opening statement, is simple. 
+With the conclusion of the body—rejoice! The hardest part is over. Wrapping up your opening statement, is simple.
 
 We would advise to end with:
 "Any questions, do let me know."
@@ -264,21 +267,22 @@ We would advise to end with:
 All this does is help tie up your remarks, and encourage the user to engage with the ticket.
 
 ## 3.3 Interacting with Members in a Ticket
+
 ### 3.3.1 How to Respond to Members
-Working on the assumption that your member has noticed the ticket and interacted with it - it's important to respond to any statements, questions or concerns they have with etiquette, decency and decorum. And above all, patience.
+Working on the assumption that your member has noticed the ticket and interacted with it. It's important to respond to any statements, questions or concerns they have with etiquette, decency, dcorum and above all, patience.
 
-You are far more likely to make errors of judgment if you are rushing to respond or defend yourself to a member in a ticket. 
+You are far more likely to make errors of judgment if you are rushing to respond or defend yourself to a member in a ticket.
 
-To reduce this occurring, we advise waiting a couple of minutes between receiving their message and responding to it with one of your own - by slowing things down you give yourself more time to formulate an appropriate response and reign in any potential emotional flaws with your response.
+To reduce this occurring, we advise waiting a couple of minutes between receiving their message and responding to it with one of your own. By slowing things down, you give yourself more time to formulate an appropriate response and reign in any potential emotional factors.
 
 ### 3.3.2 If You're Ever Stuck
-If you ever find yourself in a pickle, or feel that you're unsure on how best to reply - please don't think that you are required to figure it out for yourself!
+If you ever find yourself in a pickle, or feel that you're unsure on how best to reply, please don't think that you are required to figure it out for yourself!
 
 Your fellow moderators in ⁠mod-chat will always be around to provide sound guidance and advice, so don't hesitate to reach out.
 
 ## 3.4 Wrapping Up the Ticket
 ### 3.4.1 Warning the User
-When all is said and done, if required you'll need to log the user and their infraction with Wick's "Warn" command. Wick is one of the bots you'll learn to use in its entirety - but for now let's just focus on the warn command.
+When all is said and done, if required you'll need to log the user and their infraction with Wick's "Warn" command. Wick is one of the bots you'll learn to use in its entirety, but for now let's just focus on the warn command.
 
 To use this command, simply:
 `/warn [user] [reason]`
@@ -287,17 +291,19 @@ Note: There is no need to use the `proof` prefix.
 
 When writing the reason section of the warn, make sure to reference the area of the CoC that they have violated, and the ticket number for future reference.
 
-For example, if we continue with the NSFW bio scenario from earlier:  
+For example, if we continue with the NSFW bio scenario from earlier:
 `/warn [user] reason: NSFW bio - kindly agreed to change it [1.1]`
 
 ### 3.4.2 Closing the Ticket
-Huzzah! You're nearly done - but we need to close the ticket before you can go enjoy a well deserved break. Firstly, ensure that the member has no more questions or queries - once you've received this confirmation you're ready to close the ticket.
+Huzzah! You're nearly done, but we need to close the ticket before you can go enjoy a well deserved break.
+
+Firstly, ensure that the member has no more questions or queries—once you've received this confirmation you're ready to close the ticket.
 
 You can do so in two ways:
-`/close` - this will generate a button that will close the ticket immediately upon being pressed
-`-rclose` - this method will generate a button for the member to close the ticket themselves
+- `/close` this will generate a button that will close the ticket immediately upon being pressed
+- `-rclose` this method will generate a button for the member to close the ticket themselves
 
-And that's all! And with that, you've just completed your first ticket - congratulations! It really is as easy as that, remember if you're ever stuck you've got a wonderful team to help guide you along the way.
+And that's all! And with that, you've just completed your first ticket—congratulations! It really is as easy as that, remember if you're ever stuck you've got a wonderful team to help guide you along the way.
 
 Happy ticketing!!!
 
@@ -317,10 +323,10 @@ To summarise, to be a successful Moderator on our team, it all boils down to thi
 Whether in chat or tickets, be clear, fair, and open to discussion. Stay adaptable, the community will evolve and so you need to be always ready to adapt on the fly.
 
 ### 4.2 Continuous Learning and Improvement
-Nobody is a complete package - and we never stop learning.
+Nobody is a complete package; we never stop learning.
 Take it in your stride, and be the best that you can be.
 
-### 4.3 End 
+### 4.3 End
 Moderation is challenging yes, there's no doubt about it.
 But, is it rewarding? Absolutely.
 
