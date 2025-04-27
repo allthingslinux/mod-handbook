@@ -318,6 +318,28 @@ This is ideal for tickets that are neither critical nor time sensitive. Members 
 
 This works for immediate concerns that need to be addressed quickly. You can run tickets this way for cases that are easily resolvable or just to promptly pull someone aside.
 
+## 3.5 Addressing Unresponsive Members
+Sometimes, you will not get a response after some time. This could be a number of reasons, so it is best to assume good faith until the addressed party repeatedly fails to respond in a timely manner.
+
+Depending on severity, here are some methods you can use to remind a member to respond to your ticket.
+1. Send additional mentions in the ticket.
+2. Remind them in a channel they are currently active in.
+3. "Jail" them.
+
+"Jailing" a member will lock them out of all channels except for tickets. You must give a 12–24 hour heads up before jailing. This should be used as a last resort if softer methods do not work.
+
+You can jail a member in two ways:
+- `/jail`
+- `$jail @member`
+
+If neither of these commands work, you may add the `Jail` role manually.
+
+To unjail a member you can run:
+- `/unjail`
+- `$unjail @member`
+
+Again, if the commands fail, you can remove the `Jail` role yourself.
+
 # 4. Conclusion
 
 ### 4.1 Recap of Key Points
