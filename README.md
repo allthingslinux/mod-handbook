@@ -219,11 +219,11 @@ Alternatively, you can streamline this process by creating a ticket and adding a
 3. Click "Create Ticket"
 
 ### 3.1.4 Claiming the Ticket
-An important point to note, as part of the ATL moderation team, we operate a "One-moderator-per-ticket" policy. This means that only one moderator should interact with a ticket at any given time (unless in exceptional circumstances when an Admin may need to intervene). 
+An important point to note, as part of the ATL moderation team, we operate on a "One-moderator-per-ticket" policy. This means that only one moderator should interact with a ticket at any given time (unless in exceptional circumstances when intervention is needed).
 
-We do this to ensure that our members feel fairly treated and lessen the chance of them feeling overwhelmed or like they're being "ganged up on". It also prevents moderators unintentionally conflicting each other and stepping on each other's toes.
+We do this to ensure that our members feel fairly treated and lessen the chance of them feeling overwhelmed or like they're being "ganged up on". It also prevents moderators unintentionally contradicting each other and stepping on each other's toes.
 
-To help maintain this practice, each ticket must be "claimed" by the moderator who made the ticket. This can be achieved by pressing the "Claim ticket" button at the top of each ticket.
+To help maintain this practice, the author must "claim" each ticket. This can be achieved by pressing the "Claim Ticket" button at the top of each ticket.
 
 By doing so, you make it so that only you can interact with the ticket and its contents.
 
