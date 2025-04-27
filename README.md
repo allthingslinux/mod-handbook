@@ -182,7 +182,25 @@ Exercising your discretion, you may opt to make a ticket to address a Code of Co
 ### 3.1.1 What is a Ticket?
 A ticket is simply a temporary channel created for the moderator to directly communicate with any user they wish.
 
-A moderator can add a user to the ticket, resolve the issue and then close the ticket when the objectives of the ticket are met. We use tickets to ensure a direct line of communication with our members, maintaining professionalism in a space infinitely less cluttered than in popular chats such as ⁠general.
+A ticket is a temporary channel that provides users and moderators a direct line of communication outside of public channels.
+
+A ticket can be opened by both moderators and members
+
+A member may open a ticket in order to:
+
+1. Report a Code of Conduct violation
+2. Ask a question about the Code of Conduct or the server as a whole
+3. Make suggestions on how to improve member experiences
+4. Voice concerns about moderation actions
+
+A moderator may open a ticket in order to:
+
+1. Address a Code of Conduct violation
+2. Ask users about a recent incident
+3. Gather information concerning a user
+4. Start long term discussions with team members
+
+A moderator can add a user to the ticket, resolve the issue and then close the ticket when the objectives of the ticket are met. We use tickets to ensure a direct line of communication with our members, maintaining professionalism in a space less noisy than public chats.
 
 ### 3.1.2 Opening a Ticket
 Depending on your preference, two methods can be used to open an empty ticket:
