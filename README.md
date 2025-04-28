@@ -285,7 +285,7 @@ To use this command, simply:
 
 Note: There is no need to use the `proof` prefix.
 
-When writing the reason section of the warn, make sure to reference the area of the CoC that they have violated.
+When writing the reason section of the warn, make sure to reference the area of the CoC that they have violated, and the ticket number for future reference.
 
 For example, if we continue with the NSFW bio scenario from earlier:  
 `/warn [user] reason: NSFW bio - kindly agreed to change it [1.1]`
