@@ -251,7 +251,7 @@ As shown, your body should:
 
 a) *Address* what you're not happy with
 
-b) *Reference* which area of the Code of Conduct they are in violation of  
+b) *Reference* which area of the Code of Conduct they are in violation of by linking to the copy on our [website](https://allthingslinux.org/code-of-conduct) or [GitHub repository](https://github.com/allthingslinux/code-of-conduct)
 
 c) *Point* towards how they can rectify their actions, and subtly hint as to what could happen should they choose not to
 
