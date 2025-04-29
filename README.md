@@ -342,9 +342,95 @@ To unjail a member you can run:
 
 Again, if the commands fail, you can remove the `Jail` role yourself.
 
-# 4. Conclusion
+# 4. Moderation Tools and Channels
 
-### 4.1 Recap of Key Points
+There are numerous utilities at your disposal to aid in your duties. Here are some of them.
+
+## 4.1 Text Channels
+
+* `#mod-chat`: A place for coordinating and discussing moderation concerns with other moderators.
+* `#mod-bots`: A moderator exclusive channel for running bot commands.
+* `#the-water-cooler`: The "break room" for moderators and staff. Keep in mind that not all staff members here are moderators, so try to keep moderation issues out of this channel.
+* `#mod-forum`: A forum for long term projects.
+* `#helpful-users`: An exclusive channel for our Helpful members. This is usually used as a direct line for them to report policy concerns or Code of Conduct violations.
+* `#jail`: Jailed members are locked access to all channels except for this one and any tickets they are in. Use this channel to redirect them to their ticket.
+
+## 4.2 Log Channels
+
+* `#privlog/ticket`: Tickets are archived here when they are closed.
+* `#privlog/automod`: Logs for messages that are caught by Discord's automod system. Keep an eye out for people who repeatedly trigger it.
+* `#privlog/audit`: Logs for everything else. You'll usually use this channel to check for deleted or edited messages.
+* all logs in `/var/log`: These are **public** logs. Do note that moderation actions are published here, so please write appropriate reasons in your commands.
+
+## 4.3 Bot Commands
+
+We have already covered ticket related commands, so we will cover the other commands you may use.
+
+### 4.1.1 Tux
+
+Tux is our main bot for moderation.
+
+#### 4.1.1.1 Member Management
+
+* `/cases`: Manage moderation cases in the server.
+  * `/cases view` allows filtering by case number, type, member, and moderator.
+  * `/cases modify` is used to edit existing cases. Use this to update reasons and active status.
+
+* `/ban`: Ban a member from the server.
+  * `/ban @member [reason]`
+
+* `/tempban`: Temporarily ban a member from the server.
+  * `/tempban @member duration [reason]`
+
+* `/unban`: Unban a user from the server. You must pass the user by ID or username.
+  * `/unban user`
+
+* `/kick`: Kick a member from the server.
+  * `/kick @member [reason]`
+
+* `/timeout`: Timeout a member from the server.
+  * `/timeout @member [reason]`
+
+* `/untimeout`: Remove timeout from a member.
+  * `/untimeout @member [reason]`
+
+* `/jail`: Jail a member in the server.
+  * `/jail @member [reason]`
+
+* `/unjail`: Remove a member from jail.
+  * `/unjail @member [reason]`
+
+* `/warn`: Warn a member from the server.
+  * `/warn @member [reason]`
+
+* `/clearafk`: Clear a member's AFK status and reset their nickname.
+  * `/clearafk @member`
+
+* `/pollban`: Ban a user from creating polls.
+  * `/pollban @member [reason]`
+
+* `/pollunban`: Remove a poll ban from a member.
+  * `/pollunban @member [reason]`
+
+* `/snippetban`: Ban a member from creating snippets.
+  * `/snippetban @member [reason]`
+
+* `/snippetunban`: Remove a snippet ban from a member.
+  * `/snippetunban @member [reason]`
+
+#### 4.1.1.2 Message/Channel Management
+
+* `/purge`: Deletes a set number of messages in a channel.
+  * `/purge limit [channel]`
+
+* `/slowmode`: Set or get the slowmode for a channel.
+  * `/slowmode channel`
+  * `/slowmode delay`
+  * `/slowmode channel delay`
+
+# 5. Conclusion
+
+### 5.1 Recap of Key Points
 To summarize, to be a successful Moderator on our team, it all boils down to this:
 
 * Moderation is about fostering a positive, welcoming community. Your role is to maintain a positive environment, mediate conflicts and uphold our ethos without bias.
@@ -357,11 +443,11 @@ To summarize, to be a successful Moderator on our team, it all boils down to thi
 
 Whether in chat or tickets, be clear, fair, and open to discussion. Stay adaptable, the community will evolve and so you need to be always ready to adapt on the fly.
 
-### 4.2 Continuous Learning and Improvement
+### 5.2 Continuous Learning and Improvement
 Nobody is a complete package; we never stop learning.
 Take it in your stride, and be the best that you can be.
 
-### 4.3 End
+### 5.3 End
 Moderation is challenging yes, there's no doubt about it.
 But, is it rewarding? Absolutely.
 
