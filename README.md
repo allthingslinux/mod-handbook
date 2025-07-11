@@ -80,8 +80,6 @@ Our team is as follows:
 | Exulan      | Senior Moderator        |
 | Vuks        | Senior Moderator        |
 | Amilie      | Moderator               |
-| Arkannon    | Moderator               |
-| Electron    | Moderator               |
 | Flatbread   | Moderator               |
 | Ilovecanada | Moderator               |
 | Jess        | Moderator               |
