@@ -74,32 +74,29 @@ Our team is as follows:
 | ----------- | ----------------------- |
 | Kaizen      | Founder, Owner          |
 | Scott       | Administrator           |
+| Atmois      | Assistant Administrator |
+| FarCotton   | Assistant Administrator |
 | Estralia    | Senior Moderator        |
 | Exulan      | Senior Moderator        |
-| FarCotton   | Senior Moderator        |
-| Khrozma     | Senior Moderator        |
-| Atmois      | Assistant Administrator |
-| Green       | Assistant Administrator |
-| Owuawo      | Assistant Administrator |
+| Vuks        | Senior Moderator        |
 | Amilie      | Moderator               |
 | Arkannon    | Moderator               |
 | Electron    | Moderator               |
 | Flatbread   | Moderator               |
-| Glocean     | Moderator               |
 | Ilovecanada | Moderator               |
-| Imnotpolar  | Moderator               |
+| Jess        | Moderator               |
 | Lactose     | Moderator               |
 | Pockies     | Moderator               |
-| Vuks        | Moderator               |
+| Storm       | Moderator               |
 
 ## 1.2 The Chain of Command
 In All Things Linux, the chain of command is structured as follows:
 
 1. **Owner**: The ultimate decision-maker who oversees the entire community and its operations.
 2. **Administrators**: Responsible for managing the server, implementing policies, and supporting moderators in their roles.
-3. **Moderator Director**: The head of the moderation team, responsible for training, support, and ensuring the effective implementation of moderation policies.
-4. **Senior Moderators**: Experienced moderators who take on additional responsibilities, such as handling escalated issues and providing guidance to other moderators.
-5. **Assistant Administrators**: A dedicated position that not only acts as a liaison between the moderation team and administration, but also leads some server-wide projects.
+3. **Assistant Administrators**: A dedicated position that not only acts as a liaison between the moderation team and administration, but also leads some server-wide projects.
+4. **Moderator Director**: The head of the moderation team, responsible for training, support, and ensuring the effective implementation of moderation policies.
+5. **Senior Moderators**: Experienced moderators who take on additional responsibilities, such as handling escalated issues and providing guidance to other moderators.
 6. **Moderators**: The front line team that actively engages with the community, enforces rules, and addresses member concerns.
 7. **Junior Moderators**: Newer members of the moderation team who are learning the ropes and assisting moderators in their duties.
 
@@ -261,7 +258,9 @@ As shown, your body should:
 ### 3.2.3 Closing Your Opening Message
 With the conclusion of the body—rejoice! The hardest part is over. Wrapping up your opening statement, is simple.
 
-We would advise to end with:
+Firstly, always give notice to the member that they have 48h to acknowledge the ticket. Making this clear from the get-go helps prevent confusion on both ends. This can be achieved quite simply with just a line, such as: `Please respond to this ticket within 48h, else you will be jailed until you do so."`
+
+Then, we would advise you end with:
 `"If you have any questions, do let me know."`
 
 All this does is help tie up your remarks, and encourage the user to engage with the ticket.
@@ -321,14 +320,14 @@ This is ideal for tickets that are neither critical nor time sensitive. Members 
 This works for immediate concerns that need to be addressed quickly. You can run tickets this way for cases that are easily resolvable or just to promptly pull someone aside.
 
 ## 3.5 Addressing Unresponsive Members
-Sometimes, you will not get a response after some time. This could be a number of reasons, so it is best to assume good faith until the addressed party repeatedly fails to respond in a timely manner.
+Sometimes, you will not get a response after some time. This could be for a number of reasons, so it is best to assume good faith until the addressed party repeatedly fails to respond in a timely manner.
 
 Depending on severity, here are some methods you can use to remind a member to respond to your ticket.
-1. Send additional mentions in the ticket.
+1. Send additional mentions in the ticket at the 24h mark.
 2. Remind them in a channel they are currently active in.
 3. "Jail" them.
 
-"Jailing" a member will lock them out of all channels except for tickets. You must give a 12–24 hour heads up before jailing. This should be used as a last resort if softer methods do not work.
+"Jailing" a member will lock them out of all channels except for tickets. You should jail a member after 48h of unresponsiveness. This should be used as a last resort if softer methods do not work.
 
 You can jail a member in two ways:
 - `/jail`
@@ -341,6 +340,11 @@ To unjail a member you can run:
 - `$unjail @member`
 
 Again, if the commands fail, you can remove the `Jail` role yourself.
+
+Once jailed, give another 48h for users to interact with the ticket, and if this still does not yield any results, you may remove the user from the server with either a kick, or a ban (depending on the severity). 
+
+You can kick a member by:
+- `/kick`
 
 # 4. Conclusion
 
