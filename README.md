@@ -73,19 +73,20 @@ Our team is as follows:
 | Name        | Role                    |
 | ----------- | ----------------------- |
 | Kaizen      | Founder, Owner          |
-| Scott       | Administrator           |
 | FarCotton   | Administrator           |
+| Scott       | Administrator           |
 | Atmois      | Assistant Administrator |
 | Hunter      | Assistant Administrator |
 | Estralia    | Senior Moderator        |
 | Exulan      | Senior Moderator        |
 | Vuks        | Senior Moderator        |
+| Aimai       | Moderator               |
 | Amilie      | Moderator               |
 | Flatbread   | Moderator               |
 | Ilovecanada | Moderator               |
 | Jess        | Moderator               |
+| Miyu        | Moderator               |
 | Ryna        | Moderator               |
-| Aimai       | Moderator               |
 | Storm       | Moderator               |
 
 ## 1.2 The Chain of Command
