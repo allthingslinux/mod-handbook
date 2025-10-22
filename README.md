@@ -77,17 +77,15 @@ Our team is as follows:
 | Scott       | Administrator           |
 | Atmois      | Assistant Administrator |
 | Hunter      | Assistant Administrator |
-| Estralia    | Senior Moderator        |
-| Exulan      | Senior Moderator        |
+| Estralia    | Director of Moderation  |
 | Vuks        | Senior Moderator        |
 | Aimai       | Moderator               |
-| Amilie      | Moderator               |
 | Flatbread   | Moderator               |
-| Ilovecanada | Moderator               |
 | Jess        | Moderator               |
-| Miyu        | Moderator               |
-| Ryna        | Moderator               |
-| Storm       | Moderator               |
+| Nickname    | Moderator               |
+| 7actose     | Moderator               |
+| Polverarijv | Moderator               |
+| Leonidas    | Junior Moderator        |
 
 ## 1.2 The Chain of Command
 In All Things Linux, the chain of command is structured as follows:
@@ -95,7 +93,7 @@ In All Things Linux, the chain of command is structured as follows:
 1. **Owner**: The ultimate decision-maker who oversees the entire community and its operations.
 2. **Administrators**: Responsible for managing the server, implementing policies, and supporting moderators in their roles.
 3. **Assistant Administrators**: A dedicated position that not only acts as a liaison between the moderation team and administration, but also leads some server-wide projects.
-4. **Moderator Director**: The head of the moderation team, responsible for training, support, and ensuring the effective implementation of moderation policies.
+4. **Directors of Moderation**: The head of the moderation team, responsible for training, support, and ensuring the effective implementation of moderation policies.
 5. **Senior Moderators**: Experienced moderators who take on additional responsibilities, such as handling escalated issues and providing guidance to other moderators.
 6. **Moderators**: The front line team that actively engages with the community, enforces rules, and addresses member concerns.
 7. **Junior Moderators**: Newer members of the moderation team who are learning the ropes and assisting moderators in their duties.
