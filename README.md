@@ -73,21 +73,20 @@ Our team is as follows:
 | Name        | Role                    |
 | ----------- | ----------------------- |
 | Kaizen      | Founder, Owner          |
-| FarCotton   | Administrator           |
+| farcotton   | Administrator           |
 | Scott       | Administrator           |
 | Atmois      | Assistant Administrator |
 | Hunter      | Assistant Administrator |
-| Estralia    | Senior Moderator        |
-| Exulan      | Senior Moderator        |
+| Estralia    | Director of Moderatoration |
 | Vuks        | Senior Moderator        |
 | Aimai       | Moderator               |
-| Amilie      | Moderator               |
 | Flatbread   | Moderator               |
-| Ilovecanada | Moderator               |
 | Jess        | Moderator               |
-| Miyu        | Moderator               |
-| Ryna        | Moderator               |
-| Storm       | Moderator               |
+| lac7ose     | Moderator               |
+| Nickname    | Moderator               |
+| polverarijv | Moderator               | 
+
+
 
 ## 1.2 The Chain of Command
 In All Things Linux, the chain of command is structured as follows:
